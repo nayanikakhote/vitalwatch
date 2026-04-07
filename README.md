@@ -160,12 +160,6 @@ Patient Vitals & Labs
 
 ---
 
-## 🎨 Presentation
-
-👉 [View Full Slide Deck on Canva](https://canva.link/c2fq69aujnse7tm)
-
----
-
 ## ⚠️ Disclaimer
 
 VitalWatch is intended for **clinical decision support only**. It is not a substitute for physician judgment.
